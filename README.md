@@ -6,7 +6,7 @@ This repository hosts our “Coming Soon” page at [https://nextrend.ca](https:
 
 - `index.html` – The landing‐page markup  
 - `style.css` – Basic styles for layout and branding  
-- `logo.png` – Our logo asset  
+- `logo.jpeg` – Our logo asse
 
 ## Deployment
 
